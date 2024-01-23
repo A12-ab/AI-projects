@@ -17,8 +17,8 @@ detector = HandDetector(detectionCon=0.8, maxHands=2)
 
 
 ballPos = [100, 100]
-speedX = 10
-speedY = 10
+speedX = 15
+speedY = 15
 gameOver = False
 score = [0, 0]
 
